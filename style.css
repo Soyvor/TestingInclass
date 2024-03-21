@@ -71,7 +71,7 @@ body {
 
 .dark .jumbo {
     background-image: var(--stripesDark), var(--rainbow);
-    filter: blur(10px) opacity(50%) saturate(200%);
+    filter: blur(10px) opacity(70%) saturate(250%);
 }
 .dark .jumbo::after {
     background-image: var(--stripesDark), var(--rainbow);
